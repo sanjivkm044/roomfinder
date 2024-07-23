@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "562003157618",
+    "project_id": "myroomfinder-ecfd0",
+    "storage_bucket": "myroomfinder-ecfd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562003157618:android:e785aefe03d4fa6f09d8eb",
+        "android_client_info": {
+          "package_name": "com.example.myroomfinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRUl5Xl02AJRz4VOgrVencb2BFuBgVFB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
